@@ -1,6 +1,6 @@
 #include<ESP8266WiFi.h>
-const char* ssid="ASUS_X01BDA";
-const char* password="naveen07";
+const char* ssid="******";
+const char* password="******";
 
 int ledpin=13;
 
